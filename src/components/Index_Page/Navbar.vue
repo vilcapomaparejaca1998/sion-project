@@ -43,7 +43,6 @@ onMounted(() => {
   <tbody>
     <tr v-for="item in bucketsData" :key="item.id" class="bg-gray-100 hover:bg-blue-200">
       <td class="px-4 py-2">{{ item.id }}</td>
-      <td class="px-4 py-2">{{ item.nombre }}</td>
       <td class="px-4 py-2">{{ item.comentario }}</td>
       <td class="px-4 py-2">{{ item.cantidad }}</td>
       <td class="px-4 py-2">{{ item.precio }}</td>
