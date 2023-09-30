@@ -46,7 +46,7 @@ onMounted(() => {
       <td class="px-4 py-2">{{ item.nombre }}</td>
       <td class="px-4 py-2">{{ item.comentario }}</td>
       <td class="px-4 py-2">{{ item.cantidad }}</td>
-
+      <td class="px-4 py-2">{{ item.precio }}</td>
     </tr>
   </tbody>
 </table>
