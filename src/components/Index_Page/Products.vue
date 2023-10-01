@@ -17,7 +17,7 @@ onMounted(() => {
 });
 </script>
 <template>
-<table class="w-full bg-blue-500 text-white">
+<table class="w-full bg-blue-500 text-white mt-12">
     <thead>
       <tr>
         <th class="px-4 py-2">ID</th>

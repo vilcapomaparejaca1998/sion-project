@@ -10,7 +10,7 @@ import ListProduct from './components/Products/ListProduct.vue'
 <template>
   <Header />
   <Navbar class="fixed" />
-  <main class="w-screen h-screen bg-blue-light-customize">
+  <main class="w-screen h-screen bg-blue-light-customize ">
 
   </main>
 
